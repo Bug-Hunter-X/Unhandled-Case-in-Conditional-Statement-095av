@@ -1,0 +1,1 @@
+This repository demonstrates a common MATLAB error: an unhandled case in a conditional statement. The function `myFunction` handles cases where the input is greater than 10 or less than 0 but neglects the case where the input is exactly 10.  The solution shows how to explicitly handle this edge case.
